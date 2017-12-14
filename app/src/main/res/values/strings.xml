@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArduinoClass</string>
+    <string name="left">ซ้าย</string>
+    <string name="right">ขวา</string>
+    <string name="up">ตรง</string>
+    <string name="dorw">ถอย</string>
+
+
+</resources>

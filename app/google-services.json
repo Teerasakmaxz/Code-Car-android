@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861420858699",
+    "firebase_url": "https://testonoff-1d738.firebaseio.com",
+    "project_id": "testonoff-1d738",
+    "storage_bucket": "testonoff-1d738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861420858699:android:a18a62c0415b48b5",
+        "android_client_info": {
+          "package_name": "com.example.teerasaksathu.arduinoclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861420858699-2dr88s02iegnlj8rnqaqg8b45giiust2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMV88vm-Q18NCH_EMysgkfG_YCiz5cU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
